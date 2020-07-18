@@ -1,0 +1,32 @@
+
+
+
+Blockchain Day 1 Assignment
+
+1. What is your understanding of a blockchain?
+Blockchain is a chain of transactions that have occurred in a secure, chronological, and in an immutable manner recorded permanently. Blockchain is a decentralized technique that does not involve third-party validation.
+
+2. What is the core problem, blockchain trying to solve?
+Blockchain is trying to get rid of third party validation involvement in various regimes such as banking systems, etc.
+Thus, Blockchain is based on decentralization which aids in primarily solving security, validation, and authentication problems involved with third party validation authorities.
+
+3. What are the Few Features of Blockchain will give you?
+These are various features of blockchain -  
+a. Decentralization
+b. Immutable
+c. Validation
+d. Enhanced Security
+e. Authentication
+f. Tamper-proof
+
+4. What all things does a block contain?
+A block in a blockchain contains -
+a. Block Address
+b. Transaction Record
+c. Previous Hash Signature
+d. Mining Key
+
+5. How can verifiability be achieved in a blockchain?
+Verifiability in a blockchain can be achieved using peer to peer technology.
+Let’s say I generated a document in front of multiple users thus the document is now verified now I send a copy of the same document and all of them generate a key using SHA-256. The key generated using SHA-256 has to be similar for each other person the document is shared with. The process continues each time the document is shared along the same chain. Thus, the verifiability is achieved through this formula -  
+Current Block Signature = Previous Block Signature + Data in the Block
